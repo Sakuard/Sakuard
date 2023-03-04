@@ -46,84 +46,14 @@
   </span>
 </div>
 
-<div class="language__container dev__tools">
-  <h4 class="languages">Tools</h4>
-  <span class="language" align="left">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-    
-  </span>
-</div>
+| Tools | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a> |
+|----------|---------|
 
 <br>
-<div class="contact__container">
-  <div class="title">
-    Contact Me
+## Contact Me
     <a href="https://linkedin.com/in/柏儒-黃-19b8a4213/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white">
      </a>
      <a href="mailto:matt.web.tw@gmail.com"><img src="https://img.shields.io/badge/matt.web.tw@gmail.com-fafafa?style=for-the-badge&logo=Gmail&logoColor=#EA4335"/>
      </a>
-  </div>
-</div>
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakuard&show_icons=true&locale=en&layout=compact" alt="sakuard" /></p> -->
-
-<style>
-  .project__container {
-    display: flex;
-  }
-  .project{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    border-bottom: 1px solid rgba(100, 100, 100, 0.5);
-    padding-bottom: 5px;
-    font-size: 20px;
-  }
-  .project a {
-    border: 2px solid rgba(25, 25, 200, 0.4);
-    border-radius: 5px;
-  }
-  .project__description {
-    color: rgba(50, 50, 50, 0.65);
-    font-size: 15px;
-    margin-top: 3px;
-  }
-  .title{
-    font-size: 28px;
-    font-weight: bold;
-    color: rgba(50, 50, 50, 0.8);
-  }
-  .title::after {
-    content: "";
-    display: block;
-    border-bottom: 1px solid rgba(100, 100, 100, 0.5);
-    margin-top: 8px;
-    margin-bottom: 15px;
-  }
-  .language__container {
-    display: flex;
-    border: 1px solid rgba(100, 100, 100, 0.5);
-    margin: -1px 0;
-    max-width: 350px;
-  }
-  .languages {
-    width: 70px;
-    text-align: center;
-    margin-right: 5px;
-    margin-left: 5px;
-  }
-  .language {
-    margin-top: 10px;
-  }
-  .contact__container {
-    margin-top: 15px;
-  }
-
-  a {
-    color: rgba(25, 25, 200, 0.8);
-    text-decoration: none;
-  }
-</style>
