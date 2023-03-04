@@ -5,7 +5,12 @@
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 
-<h3 align="left">Languages and Tools</h3>
+## Skills
+
+| Frontend | [![My Frontend Skills](https://skillicons.dev/icons?i=html,css,js,vue,vuetify,android)](https://skillicons.dev) |
+|---------|---------|
+
+
 <div class="language__container frontend">
   <h4>Frontend</h4>
   <span align="left">
